@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+}
+#map {
+  position: sticky;
+  top: 0;
+}
+
+.right-container {
+  width: 30%;
+  margin: 16px 8px;
+}
+
+.right-container img {
+  height: 100vh;
+  object-fit: cover;
+}
